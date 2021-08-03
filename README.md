@@ -1,4 +1,15 @@
 # FYP_Cityu
+
+Objectives:
+1. Getting Chinese White Dolphins images from the database;
+
+2. Training the computer vision model to recognize the Chinese White Dolphins;
+
+3. Integrate all the things into a single API for the web-application platform to get the classification results;
+
+Deliverables:
+1. Provide an application for people to recognize the Chinese White Dolphin individuals;
+
 Google drive link:
 https://drive.google.com/drive/folders/1YEocdFUR7yApmAArTpi9pE-3A7QCR14l
 
